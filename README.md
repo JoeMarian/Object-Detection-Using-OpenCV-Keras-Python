@@ -46,9 +46,6 @@ Contributions to this project are welcome! Feel free to submit bug reports, feat
 - Thanks to the developers of OpenCV, Keras, and TensorFlow for their amazing libraries.
 - Special thanks to the creators of the ResNet50 model for providing a powerful pre-trained model for object recognition.
 
-## Contact
-
-For any inquiries or support, please contact saranmass234@gmail.com
 
 ---
 
